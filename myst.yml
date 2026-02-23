@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0329e41f-1df9-4240-ba07-bb19a243c0b6
+  title: "Github-test"
+  description: "Test Jupyter Book"
+  keywords: "test, Jupyter, Book"
+  authors: "Steve Larsen"
+  email: "stevealarsen@gmail.com"
+  github: "python-basics-eng/github-test"
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
